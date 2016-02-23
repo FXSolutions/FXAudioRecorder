@@ -1,0 +1,2 @@
+/Users/pro/Library/Developer/Xcode/DerivedData/FXAudioRecorder-gtxrgwmzkreeonapxohvcblqhllz/Build/Products/Debug-iphonesimulator/FXAudioRecorder.app
+

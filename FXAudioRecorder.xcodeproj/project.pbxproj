@@ -7,6 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BEC8BCC91C70D32600294E9C /* SCListener.m in Sources */ = {isa = PBXBuildFile; fileRef = BEC8BCC81C70D32600294E9C /* SCListener.m */; };
+		BEC8BCD91C70D3AE00294E9C /* Stevia+Aligngment.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC8BCCB1C70D3AE00294E9C /* Stevia+Aligngment.swift */; };
+		BEC8BCDA1C70D3AE00294E9C /* Stevia+Center.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC8BCCC1C70D3AE00294E9C /* Stevia+Center.swift */; };
+		BEC8BCDB1C70D3AE00294E9C /* Stevia+Constraints.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC8BCCD1C70D3AE00294E9C /* Stevia+Constraints.swift */; };
+		BEC8BCDC1C70D3AE00294E9C /* Stevia+Content.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC8BCCE1C70D3AE00294E9C /* Stevia+Content.swift */; };
+		BEC8BCDD1C70D3AE00294E9C /* Stevia+Fill.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC8BCCF1C70D3AE00294E9C /* Stevia+Fill.swift */; };
+		BEC8BCDE1C70D3AE00294E9C /* Stevia+Hierachy.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC8BCD01C70D3AE00294E9C /* Stevia+Hierachy.swift */; };
+		BEC8BCDF1C70D3AE00294E9C /* Stevia+Notifications.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC8BCD11C70D3AE00294E9C /* Stevia+Notifications.swift */; };
+		BEC8BCE01C70D3AE00294E9C /* Stevia+Operators.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC8BCD21C70D3AE00294E9C /* Stevia+Operators.swift */; };
+		BEC8BCE11C70D3AE00294E9C /* Stevia+Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC8BCD31C70D3AE00294E9C /* Stevia+Position.swift */; };
+		BEC8BCE21C70D3AE00294E9C /* Stevia+Size.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC8BCD41C70D3AE00294E9C /* Stevia+Size.swift */; };
+		BEC8BCE31C70D3AE00294E9C /* Stevia+Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC8BCD51C70D3AE00294E9C /* Stevia+Stacks.swift */; };
+		BEC8BCE41C70D3AE00294E9C /* Stevia+Style.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC8BCD61C70D3AE00294E9C /* Stevia+Style.swift */; };
+		BEC8BCE51C70D3AE00294E9C /* Stevia+Tap.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC8BCD71C70D3AE00294E9C /* Stevia+Tap.swift */; };
+		BEC8BCE61C70D3AE00294E9C /* Stevia+VisualFormat.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC8BCD81C70D3AE00294E9C /* Stevia+VisualFormat.swift */; };
+		BEC8BCEE1C70D42700294E9C /* MainRecorderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC8BCED1C70D42700294E9C /* MainRecorderView.swift */; };
 		BEE69FA01C6F4B8B00EAD29E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE69F9F1C6F4B8B00EAD29E /* AppDelegate.swift */; };
 		BEE69FA21C6F4B8B00EAD29E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE69FA11C6F4B8B00EAD29E /* ViewController.swift */; };
 		BEE69FA51C6F4B8B00EAD29E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEE69FA31C6F4B8B00EAD29E /* Main.storyboard */; };
@@ -26,6 +42,24 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BEC8BCC61C70D32500294E9C /* FXAudioRecorder-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FXAudioRecorder-Bridging-Header.h"; sourceTree = "<group>"; };
+		BEC8BCC71C70D32600294E9C /* SCListener.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SCListener.h; sourceTree = "<group>"; };
+		BEC8BCC81C70D32600294E9C /* SCListener.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SCListener.m; sourceTree = "<group>"; };
+		BEC8BCCB1C70D3AE00294E9C /* Stevia+Aligngment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Aligngment.swift"; sourceTree = "<group>"; };
+		BEC8BCCC1C70D3AE00294E9C /* Stevia+Center.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Center.swift"; sourceTree = "<group>"; };
+		BEC8BCCD1C70D3AE00294E9C /* Stevia+Constraints.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Constraints.swift"; sourceTree = "<group>"; };
+		BEC8BCCE1C70D3AE00294E9C /* Stevia+Content.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Content.swift"; sourceTree = "<group>"; };
+		BEC8BCCF1C70D3AE00294E9C /* Stevia+Fill.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Fill.swift"; sourceTree = "<group>"; };
+		BEC8BCD01C70D3AE00294E9C /* Stevia+Hierachy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Hierachy.swift"; sourceTree = "<group>"; };
+		BEC8BCD11C70D3AE00294E9C /* Stevia+Notifications.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Notifications.swift"; sourceTree = "<group>"; };
+		BEC8BCD21C70D3AE00294E9C /* Stevia+Operators.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Operators.swift"; sourceTree = "<group>"; };
+		BEC8BCD31C70D3AE00294E9C /* Stevia+Position.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Position.swift"; sourceTree = "<group>"; };
+		BEC8BCD41C70D3AE00294E9C /* Stevia+Size.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Size.swift"; sourceTree = "<group>"; };
+		BEC8BCD51C70D3AE00294E9C /* Stevia+Stacks.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Stacks.swift"; sourceTree = "<group>"; };
+		BEC8BCD61C70D3AE00294E9C /* Stevia+Style.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Style.swift"; sourceTree = "<group>"; };
+		BEC8BCD71C70D3AE00294E9C /* Stevia+Tap.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+Tap.swift"; sourceTree = "<group>"; };
+		BEC8BCD81C70D3AE00294E9C /* Stevia+VisualFormat.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Stevia+VisualFormat.swift"; sourceTree = "<group>"; };
+		BEC8BCED1C70D42700294E9C /* MainRecorderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainRecorderView.swift; sourceTree = "<group>"; };
 		BEE69F9C1C6F4B8B00EAD29E /* FXAudioRecorder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FXAudioRecorder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEE69F9F1C6F4B8B00EAD29E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BEE69FA11C6F4B8B00EAD29E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +90,83 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BEC8BCCA1C70D3A500294E9C /* Stevia */ = {
+			isa = PBXGroup;
+			children = (
+				BEC8BCCB1C70D3AE00294E9C /* Stevia+Aligngment.swift */,
+				BEC8BCCC1C70D3AE00294E9C /* Stevia+Center.swift */,
+				BEC8BCCD1C70D3AE00294E9C /* Stevia+Constraints.swift */,
+				BEC8BCCE1C70D3AE00294E9C /* Stevia+Content.swift */,
+				BEC8BCCF1C70D3AE00294E9C /* Stevia+Fill.swift */,
+				BEC8BCD01C70D3AE00294E9C /* Stevia+Hierachy.swift */,
+				BEC8BCD11C70D3AE00294E9C /* Stevia+Notifications.swift */,
+				BEC8BCD21C70D3AE00294E9C /* Stevia+Operators.swift */,
+				BEC8BCD31C70D3AE00294E9C /* Stevia+Position.swift */,
+				BEC8BCD41C70D3AE00294E9C /* Stevia+Size.swift */,
+				BEC8BCD51C70D3AE00294E9C /* Stevia+Stacks.swift */,
+				BEC8BCD61C70D3AE00294E9C /* Stevia+Style.swift */,
+				BEC8BCD71C70D3AE00294E9C /* Stevia+Tap.swift */,
+				BEC8BCD81C70D3AE00294E9C /* Stevia+VisualFormat.swift */,
+			);
+			name = Stevia;
+			sourceTree = "<group>";
+		};
+		BEC8BCE71C70D3B100294E9C /* Ext */ = {
+			isa = PBXGroup;
+			children = (
+				BEC8BCE81C70D3B900294E9C /* SCListener */,
+				BEC8BCCA1C70D3A500294E9C /* Stevia */,
+			);
+			name = Ext;
+			sourceTree = "<group>";
+		};
+		BEC8BCE81C70D3B900294E9C /* SCListener */ = {
+			isa = PBXGroup;
+			children = (
+				BEC8BCC71C70D32600294E9C /* SCListener.h */,
+				BEC8BCC81C70D32600294E9C /* SCListener.m */,
+			);
+			name = SCListener;
+			sourceTree = "<group>";
+		};
+		BEC8BCE91C70D3F600294E9C /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				BEC8BCEB1C70D40D00294E9C /* Main */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		BEC8BCEA1C70D3FA00294E9C /* App */ = {
+			isa = PBXGroup;
+			children = (
+				BEE69FA31C6F4B8B00EAD29E /* Main.storyboard */,
+				BEE69FA61C6F4B8B00EAD29E /* Assets.xcassets */,
+				BEE69FA81C6F4B8B00EAD29E /* LaunchScreen.storyboard */,
+				BEE69FAB1C6F4B8B00EAD29E /* Info.plist */,
+				BEC8BCC61C70D32500294E9C /* FXAudioRecorder-Bridging-Header.h */,
+				BEE69F9F1C6F4B8B00EAD29E /* AppDelegate.swift */,
+			);
+			name = App;
+			sourceTree = "<group>";
+		};
+		BEC8BCEB1C70D40D00294E9C /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				BEC8BCEC1C70D41200294E9C /* Views */,
+				BEE69FA11C6F4B8B00EAD29E /* ViewController.swift */,
+			);
+			name = Main;
+			sourceTree = "<group>";
+		};
+		BEC8BCEC1C70D41200294E9C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				BEC8BCED1C70D42700294E9C /* MainRecorderView.swift */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
 		BEE69F931C6F4B8B00EAD29E = {
 			isa = PBXGroup;
 			children = (
@@ -77,12 +188,9 @@
 		BEE69F9E1C6F4B8B00EAD29E /* FXAudioRecorder */ = {
 			isa = PBXGroup;
 			children = (
-				BEE69F9F1C6F4B8B00EAD29E /* AppDelegate.swift */,
-				BEE69FA11C6F4B8B00EAD29E /* ViewController.swift */,
-				BEE69FA31C6F4B8B00EAD29E /* Main.storyboard */,
-				BEE69FA61C6F4B8B00EAD29E /* Assets.xcassets */,
-				BEE69FA81C6F4B8B00EAD29E /* LaunchScreen.storyboard */,
-				BEE69FAB1C6F4B8B00EAD29E /* Info.plist */,
+				BEC8BCE71C70D3B100294E9C /* Ext */,
+				BEC8BCEA1C70D3FA00294E9C /* App */,
+				BEC8BCE91C70D3F600294E9C /* Controllers */,
 			);
 			path = FXAudioRecorder;
 			sourceTree = "<group>";
@@ -197,8 +305,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BEC8BCC91C70D32600294E9C /* SCListener.m in Sources */,
+				BEC8BCDC1C70D3AE00294E9C /* Stevia+Content.swift in Sources */,
+				BEC8BCDD1C70D3AE00294E9C /* Stevia+Fill.swift in Sources */,
+				BEC8BCDA1C70D3AE00294E9C /* Stevia+Center.swift in Sources */,
+				BEC8BCDE1C70D3AE00294E9C /* Stevia+Hierachy.swift in Sources */,
+				BEC8BCEE1C70D42700294E9C /* MainRecorderView.swift in Sources */,
+				BEC8BCDB1C70D3AE00294E9C /* Stevia+Constraints.swift in Sources */,
+				BEC8BCE01C70D3AE00294E9C /* Stevia+Operators.swift in Sources */,
+				BEC8BCE51C70D3AE00294E9C /* Stevia+Tap.swift in Sources */,
 				BEE69FA21C6F4B8B00EAD29E /* ViewController.swift in Sources */,
+				BEC8BCE11C70D3AE00294E9C /* Stevia+Position.swift in Sources */,
 				BEE69FA01C6F4B8B00EAD29E /* AppDelegate.swift in Sources */,
+				BEC8BCE21C70D3AE00294E9C /* Stevia+Size.swift in Sources */,
+				BEC8BCDF1C70D3AE00294E9C /* Stevia+Notifications.swift in Sources */,
+				BEC8BCE41C70D3AE00294E9C /* Stevia+Style.swift in Sources */,
+				BEC8BCE31C70D3AE00294E9C /* Stevia+Stacks.swift in Sources */,
+				BEC8BCE61C70D3AE00294E9C /* Stevia+VisualFormat.swift in Sources */,
+				BEC8BCD91C70D3AE00294E9C /* Stevia+Aligngment.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -325,10 +449,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = FXAudioRecorder/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.fxsolutions.FXAudioRecorder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "FXAudioRecorder/FXAudioRecorder-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
@@ -336,10 +463,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = FXAudioRecorder/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.fxsolutions.FXAudioRecorder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "FXAudioRecorder/FXAudioRecorder-Bridging-Header.h";
 			};
 			name = Release;
 		};
@@ -386,6 +515,7 @@
 				BEE69FBB1C6F4B8B00EAD29E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BEE69FBC1C6F4B8B00EAD29E /* Build configuration list for PBXNativeTarget "FXAudioRecorderTests" */ = {
 			isa = XCConfigurationList;
@@ -394,6 +524,7 @@
 				BEE69FBE1C6F4B8B00EAD29E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
