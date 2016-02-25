@@ -1,5 +1,7 @@
-# FXAudioRecorder
 
-<h1 align="center"> Under construction </h1>
+<h1 align="center"> FXAudioRecorder </h1>
 
-Voice messages recorder tools
+<h2 align="center"> Under construction </h1>
+
+<h6 align="center"> Voice messages recorder tools </h1>
+
